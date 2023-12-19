@@ -1,7 +1,7 @@
 ---
 title: Optimization of Ion Confinement in Surface-Electrode Traps for High-Coherence Quantum Information Processing & Laser Fiber Noise Cancelation
 author: |
-	| Andrea Miramontes Serrano, Nelson Ooi^[Co-corresponding authors. School of Electrical and Computer Engineering, College of Engineering, Cornell University, Ithaca, New York, USA. Respective emails: am2389@cornell.edu, no83@cornell.edu]
+	| Nelson Ooi, Andrea Miramontes Serrano^[Co-corresponding authors. School of Electrical and Computer Engineering, College of Engineering, Cornell University, Ithaca, New York, USA. Respective emails: no83@cornell.edu, am2389@cornell.edu]
 	|
 	| Advised by Professor Karan Mehta
 date: \today
